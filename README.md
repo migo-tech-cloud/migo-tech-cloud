@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hello, I'm Owajimimin John
 
-<!--
-**migo-tech-cloud/migo-tech-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Cloud Security & DevOps Enthusiast | 🚀 Avid Learner | ☁️ Exploring AWS & All Things Cloud-Related
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- AWS (S3, EC2, VPC)
+- Git & GitHub
+- Linux / Bash
+- Docker (learning)...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Journey
+I'm currently learning **Cloud Security & DevOps** with the [Digital Witch Support Community](https://digitalwitchng.com) and documenting my projects along the way.
+
+## 📫 Connect with Me
+- LinkedIn: [Owajimimin John](https://www.linkedin.com/in/owajimimin-john-123902371)
+- GitHub: [migo-tech-cloud](https://github.com/migo-tech-cloud)
