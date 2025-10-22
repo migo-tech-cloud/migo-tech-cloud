@@ -17,3 +17,4 @@
 ## 📫 Connect with Me
 - LinkedIn: [Owajimimin John](https://www.linkedin.com/in/owajimimin-john-123902371)
 - GitHub: [migo-tech-cloud](https://github.com/migo-tech-cloud)
+- Email: ogmigo0102@gmail.com
