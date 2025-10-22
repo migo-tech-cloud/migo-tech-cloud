@@ -10,6 +10,7 @@
 
 ## 📈 Current Journey
 -I'm currently learning **Cloud Security & DevOps** with the [Digital Witch Support Community](https://digitalwitchng.com) and documenting my projects along the way on LinkedIn.
+
 -I'm currently also on **internship** at [HNG Tech](https://hng.tech/)
 
 ## 📫 Connect with Me
